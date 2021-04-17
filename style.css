@@ -16,10 +16,6 @@ body {
 	Write your solution here!
    ========================== */
 
-/* - Main button background: #ef5839
- - Hovered button background: #d4b44c
- - Hovered button text color: #2e354f */
-
  .btn {
  	display: inline-block;
  	background: #EF5839;
@@ -31,4 +27,5 @@ body {
  .btn:hover {
  	background: #D4B44C;
  	color: #2E354F;
+ 	font-size: 32px;
  }
